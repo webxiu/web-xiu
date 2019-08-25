@@ -8,7 +8,7 @@
 >
 ### 👉预览地址：[请点我！在线预览](https://www.npmjs.com)
 
-![](https://images.pexels.com/photos/2061168/pexels-photo-2061168.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)<br>
+![](https://images.pexels.com/photos/1634229/pexels-photo-1634229.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)<br>
 
 
 ### 工具类别
